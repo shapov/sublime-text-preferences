@@ -59,5 +59,4 @@
 			]
 		}
 	}
-	// { "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} }
 ]
