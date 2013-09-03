@@ -1,11 +1,18 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Display Functions (Java)",
+		"Emmet",
+		"Git",
 		"Grails",
+		"Indent XML",
 		"JavaScript Patterns",
 		"Package Control",
 		"Search Stack Overflow",
+		"SideBarGit",
+		"SyncedSideBar",
 		"Tomorrow Color Schemes"
 	]
 }
