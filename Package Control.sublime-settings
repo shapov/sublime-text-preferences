@@ -3,15 +3,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Display Functions (Java)",
 		"Emmet",
-		"Git",
 		"Grails",
 		"Indent XML",
 		"JavaScript Patterns",
 		"Package Control",
 		"Search Stack Overflow",
-		"SideBarGit",
+		"SublimeGit",
 		"SyncedSideBar",
 		"Theme - Centurion",
 		"Tomorrow Color Schemes"

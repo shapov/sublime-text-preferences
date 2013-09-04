@@ -1,0 +1,8 @@
+{
+    "git_executables": {
+        "git": ["/usr/local/git/bin/git"],
+        "git_flow": ["git-flow"],
+        "legit": ["legit"],
+        "gitk": ["gitk"]
+    }
+}
